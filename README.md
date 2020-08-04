@@ -10,6 +10,6 @@ The features were extracted using 4 methods (2 hand crafted and 2 deep learning)
 
 We would soon be updating our refactored code, weights of models and dataset implementation details
 
-* Please bear with us in these busy times, we are working hard so that you can reproduce the smae results *
+* Please bear with us in these busy times, we are working hard so that you can reproduce the same results 
 
 Please, feel free to ping us for any doubt.
